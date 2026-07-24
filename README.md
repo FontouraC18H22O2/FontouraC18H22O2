@@ -1,32 +1,67 @@
-<!-- HEADER / INTERACTIVE TERMINAL TYPING SVG -->
+<!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&multiline=true&width=500&height=120&lines=systemctl+status+developer.service;%3A%2F+Status%3A+Active+(Studying);%3A%2F+Location%3A+Portugal+%F0%9F%87%B5%F0%9F%87%B9;%3A%2F+Focus%3A+Computer+Engineering" alt="Terminal Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&text=FontouraC18H22O2&fontSize=48&animation=fadeIn&fontColor=ffffff" width="100%" />
+</p>
+
+<p align="center">
+  <em>"Code isn't just about solving problems. It's about building solutions that scale, last, and generate real value."</em>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+@+ISPGAYA;Focus%3A+Software+Architecture+%26+Full-Stack;AI-Assisted+Software+Development;Welcome+to+my+GitHub+profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-
 > 🎓 Currently pursuing a Bachelor's Degree in Computer Engineering in Portugal 🇵🇹  
 > 💻 Focused on modern Web Development, Containerization, and Software Architecture  
 > 🤖 AI enthusiast leveraging artificial intelligence to optimize workflows and code  
-> 🚀 Continuously building personal projects and expanding technical knowledge  
+> 🚀 Continuously building personal projects and expanding technical knowledge
+
+#### 🎯 Core Focus
+* 🏛️ **Software Architecture**
+* ⚡ **System Efficiency**
+* 🌐 **Full-Stack Solutions**
+* 🤖 **AI-Assisted Development**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Competencies & Tech Stack
 
 <p align="left">
-  <!-- Frontend & Languages -->
+  <!-- Frontend -->
+  <strong>Frontend:</strong><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <br><br>
-  <!-- Backend & Infrastructure -->
+  
+  <!-- Backend & Databases -->
+  <strong>Backend & Databases:</strong><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <br><br>
+
+  <!-- Cloud, Containers & Infrastructure -->
+  <strong>Cloud & Infrastructure:</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AI_Assisted_Dev-7400B8?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
+  <br><br>
+
+  <!-- Tools & AI -->
+  <strong>Tools & Systems:</strong><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E8EA0?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" />
 </p>
 
 ---
@@ -58,7 +93,7 @@
   <a href="mailto:hugo.work.dias@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/_fontoura__">
+  <a href="https://instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
