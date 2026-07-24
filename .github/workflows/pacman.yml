@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate Pacman SVG
-        uses: marcelo-ribeiro/pacman-contribution-graph@main
+        uses: FontouraC18H22O2/pacman-contribution-graph@main
         with:
           github_user_name: FontouraC18H22O2
 
