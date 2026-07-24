@@ -11,15 +11,19 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
+      # Gera o Pacman SVG a partir da ação original do criador
       - name: Generate Pacman SVG
-        uses: FontouraC18H22O2/pacman-contribution-graph@main
+        uses: abhisheknaiidu/pacman-contribution-graph@master
         with:
           github_user_name: FontouraC18H22O2
 
+      # Envia o SVG para o branch de output
       - name: Push Pacman SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
