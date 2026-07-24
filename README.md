@@ -33,7 +33,7 @@
 
 ---
 
-### 🎮 Contribution Graph (Pac-Man)
+### 👾 Contribution Graph (Pac-Man Mode)
 
 <p align="center">
   <picture>
@@ -42,8 +42,6 @@
     <img alt="Pacman Contribution Grid" src="https://raw.githubusercontent.com/FontouraC18H22O2/FontouraC18H22O2/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </p>
-
----
 
 ### 📈 GitHub Stats
 
