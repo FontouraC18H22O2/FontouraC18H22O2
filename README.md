@@ -1,8 +1,6 @@
 <!-- HEADER / INTERACTIVE TERMINAL TYPING SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&multiline=true&width=500&height=120&lines=systemctl+status+developer.service;%3A%2F+Status%3A+Active+(Studying);%3A%2F+Location%3A+Portugal+%F0%9F%87%B5%F0%9F%87%B9;%3A%2F+Focus%3A+Computer+Engineering" alt="Terminal Header" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&multiline=true&width=500&height=120&lines=systemctl+status+developer.service;%3A%2F+Status%3A+Active+(Studying);%3A%2F+Location%3A+Portugal+%F0%9F%87%B5%F0%9F%87%B9;%3A%2F+Focus%3A+Computer+Engineering" alt="Terminal Header" />
 </p>
 
 ---
