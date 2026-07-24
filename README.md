@@ -66,7 +66,7 @@
 
 ---
 
-### 👾 Contribution Graph (Pac-Man Mode)
+### 👾 Contribution Graph (Snake-Game)
 
 <p align="center">
   <picture>
