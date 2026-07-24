@@ -1,7 +1,7 @@
 <!-- HEADER / INTERACTIVE TERMINAL TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi!+Welcome!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&multiline=true&width=500&height=120&lines=systemctl+status+developer.service;%3A%2F+Status%3A+Active+(Studying);%3A%2F+Location%3A+Portugal+%F0%9F%87%B5%F0%9F%87%B9;%3A%2F+Focus%3A+Computer+Engineering" alt="Terminal Header" />
   </a>
 </p>
 
@@ -36,8 +36,14 @@
 ### 👾 Contribution Graph (Pac-Man Mode)
 
 <p align="center">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/FontouraC18H22O2/FontouraC18H22O2/output/github-contribution-grid-snake.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FontouraC18H22O2/FontouraC18H22O2/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FontouraC18H22O2/FontouraC18H22O2/output/github-contribution-grid-snake.svg">
+    <img alt="Pacman Contribution Grid" src="https://raw.githubusercontent.com/FontouraC18H22O2/FontouraC18H22O2/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </p>
+
+---
 
 ### 📈 GitHub Stats
 
@@ -54,7 +60,7 @@
   <a href="mailto:hugo.work.dias@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/_fontoura___">
+  <a href="https://instagram.com/_fontoura__">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
